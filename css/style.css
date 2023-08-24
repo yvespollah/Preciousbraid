@@ -440,6 +440,11 @@ section{
     background: var(--main-color);
 }
 
+.box img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* pricing */
 
 /* blog */
